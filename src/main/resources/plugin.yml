@@ -1,0 +1,5 @@
+name: PlazmixSpeedBuilders
+main: net.plazmix.spaceportals.SpacePortals
+version: 1.0.0
+author: NeSmole
+depend: [PlazmixAPI]

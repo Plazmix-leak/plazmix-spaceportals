@@ -1,0 +1,38 @@
+mode: QUADRO
+
+game:
+  generator: 3
+
+teams:
+  red:
+    generator: red 0 0 0 0 0
+    shop:
+      name: "Steve"
+      loc: red 0 0 0 0 0
+    portals:
+      base: red 0 0 0 0 0
+      middle: middle 0 0 0 0 0
+  blue:
+    generator: red 0 0 0 0 0
+    shop:
+      name: "Steve"
+      loc: red 0 0 0 0 0
+    portals:
+      base: red 0 0 0 0 0
+      middle: middle 0 0 0 0 0
+  green:
+    generator: red 0 0 0 0 0
+    shop:
+      name: "Steve"
+      loc: red 0 0 0 0 0
+    portals:
+      base: red 0 0 0 0 0
+      middle: middle 0 0 0 0 0
+  yellow:
+    generator: red 0 0 0 0 0
+    shop:
+      name: "Steve"
+      loc: red 0 0 0 0 0
+    portals:
+      base: red 0 0 0 0 0
+      middle: middle 0 0 0 0 0
